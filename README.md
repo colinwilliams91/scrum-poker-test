@@ -11,6 +11,7 @@ _It is being watched by the GH-Scrum-Poker Marketplace App beta_
   - if test #7 works that implies some sort of misfire with setting up the GH Scrum Poker app on GH?
   - the app on GH is the wrong app and we are sending it the wrong credentials. How do I configure which App on GH we are sending to??
 - test #8 (made sure GH Tutorial app is watching only colin/scrum-poker-test && changed to correct pvt key PATH for node server)
+  - take II
 
 
 - test #7 continued...
